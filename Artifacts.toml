@@ -1,0 +1,86 @@
+[[GAP_pkg_gauss]]
+arch = "aarch64"
+git-tree-sha1 = "790887203925721364c9b00860fa03393a3023d6"
+os = "macos"
+
+    [[GAP_pkg_gauss.download]]
+    sha256 = "8d0805a22c6432e8d99ce999cd72f7f555ed3c012a00f008f7b61727466d7846"
+    url = "https://github.com/lgoettgens/GAP_pkg_gauss_jll.jl/releases/download/GAP_pkg_gauss-v202500.120100.0+0/GAP_pkg_gauss.v202500.120100.0.aarch64-apple-darwin.tar.gz"
+[[GAP_pkg_gauss]]
+arch = "aarch64"
+git-tree-sha1 = "709c3adca37b5bc13dfa6c6b397b6de59689fffc"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_gauss.download]]
+    sha256 = "acaf6375b4516c222396d2e9211ee290126cd95775e78b767ba690b84e9fb007"
+    url = "https://github.com/lgoettgens/GAP_pkg_gauss_jll.jl/releases/download/GAP_pkg_gauss-v202500.120100.0+0/GAP_pkg_gauss.v202500.120100.0.aarch64-linux-gnu.tar.gz"
+[[GAP_pkg_gauss]]
+arch = "aarch64"
+git-tree-sha1 = "cd7cf6409103d9f1365306203c340d5ee3c4b89b"
+libc = "musl"
+os = "linux"
+
+    [[GAP_pkg_gauss.download]]
+    sha256 = "38c3960e6b7b5fd39707401746fd2028a799ad1b8ce3134f1fb3a9a24b1244d8"
+    url = "https://github.com/lgoettgens/GAP_pkg_gauss_jll.jl/releases/download/GAP_pkg_gauss-v202500.120100.0+0/GAP_pkg_gauss.v202500.120100.0.aarch64-linux-musl.tar.gz"
+[[GAP_pkg_gauss]]
+arch = "aarch64"
+git-tree-sha1 = "1c518e67f020575830d972e01cc9a29c5d877408"
+os = "freebsd"
+
+    [[GAP_pkg_gauss.download]]
+    sha256 = "820b82dbcda066881fd07d357db2a32323115d464bf3d0a763da0298e9546d03"
+    url = "https://github.com/lgoettgens/GAP_pkg_gauss_jll.jl/releases/download/GAP_pkg_gauss-v202500.120100.0+0/GAP_pkg_gauss.v202500.120100.0.aarch64-unknown-freebsd.tar.gz"
+[[GAP_pkg_gauss]]
+arch = "powerpc64le"
+git-tree-sha1 = "4ea5b19e9ea008360cce57c18695f48de30ea12e"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_gauss.download]]
+    sha256 = "51a95422195b2f58cdb42229939ec909aeb3eeed9b16c34a19ad5d976788e21c"
+    url = "https://github.com/lgoettgens/GAP_pkg_gauss_jll.jl/releases/download/GAP_pkg_gauss-v202500.120100.0+0/GAP_pkg_gauss.v202500.120100.0.powerpc64le-linux-gnu.tar.gz"
+[[GAP_pkg_gauss]]
+arch = "riscv64"
+git-tree-sha1 = "20ffcfec54caac4a2aa58a478f9bf725e2619328"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_gauss.download]]
+    sha256 = "97bfa4d2805eb016ab24e148b251b055c37b1c7a338475afc0f5d9b213cbb47d"
+    url = "https://github.com/lgoettgens/GAP_pkg_gauss_jll.jl/releases/download/GAP_pkg_gauss-v202500.120100.0+0/GAP_pkg_gauss.v202500.120100.0.riscv64-linux-gnu.tar.gz"
+[[GAP_pkg_gauss]]
+arch = "x86_64"
+git-tree-sha1 = "b46eba1ef8727da88eeb90f7cbe3bb14cabfdeb5"
+os = "macos"
+
+    [[GAP_pkg_gauss.download]]
+    sha256 = "7376fb6b397e60a538930e838e8f156e27dfef77a254f8b00ea43dce9c2cc1fb"
+    url = "https://github.com/lgoettgens/GAP_pkg_gauss_jll.jl/releases/download/GAP_pkg_gauss-v202500.120100.0+0/GAP_pkg_gauss.v202500.120100.0.x86_64-apple-darwin.tar.gz"
+[[GAP_pkg_gauss]]
+arch = "x86_64"
+git-tree-sha1 = "c44652f8f0e55e3ce49382caf734b2ff37e97c46"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_gauss.download]]
+    sha256 = "cfc768fb8bffd6928814bac744b086625914c89e423e7faaf1ecb2cf77cea3f4"
+    url = "https://github.com/lgoettgens/GAP_pkg_gauss_jll.jl/releases/download/GAP_pkg_gauss-v202500.120100.0+0/GAP_pkg_gauss.v202500.120100.0.x86_64-linux-gnu.tar.gz"
+[[GAP_pkg_gauss]]
+arch = "x86_64"
+git-tree-sha1 = "4e60011fcb74b357eb5d74e1bcf7730f0cd8ab2d"
+libc = "musl"
+os = "linux"
+
+    [[GAP_pkg_gauss.download]]
+    sha256 = "3699132c7ac5e7e9416151a991c4bb676cc6e2273e0c40601668620eeac1ba07"
+    url = "https://github.com/lgoettgens/GAP_pkg_gauss_jll.jl/releases/download/GAP_pkg_gauss-v202500.120100.0+0/GAP_pkg_gauss.v202500.120100.0.x86_64-linux-musl.tar.gz"
+[[GAP_pkg_gauss]]
+arch = "x86_64"
+git-tree-sha1 = "97e26ac21a59eadb9c13803708b6fef6372e4d9d"
+os = "freebsd"
+
+    [[GAP_pkg_gauss.download]]
+    sha256 = "d028e6315859237713984b7ee560855433c12b0cca8c04d592545187c6df19d8"
+    url = "https://github.com/lgoettgens/GAP_pkg_gauss_jll.jl/releases/download/GAP_pkg_gauss-v202500.120100.0+0/GAP_pkg_gauss.v202500.120100.0.x86_64-unknown-freebsd.tar.gz"
