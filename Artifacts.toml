@@ -1,86 +1,86 @@
 [[GAP_pkg_gauss]]
 arch = "aarch64"
-git-tree-sha1 = "790887203925721364c9b00860fa03393a3023d6"
+git-tree-sha1 = "940511774049457fec4f09e4694e2452d3a125ab"
 os = "macos"
 
     [[GAP_pkg_gauss.download]]
-    sha256 = "8d0805a22c6432e8d99ce999cd72f7f555ed3c012a00f008f7b61727466d7846"
-    url = "https://github.com/lgoettgens/GAP_pkg_gauss_jll.jl/releases/download/GAP_pkg_gauss-v202500.120100.0+0/GAP_pkg_gauss.v202500.120100.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "5400efd8dad1963961b301335f0be8206e5adecf8fe1adc47c95cf9f730e0b1c"
+    url = "https://github.com/lgoettgens/GAP_pkg_gauss_jll.jl/releases/download/GAP_pkg_gauss-v202600.70100.0+0/GAP_pkg_gauss.v202600.70100.0.aarch64-apple-darwin.tar.gz"
 [[GAP_pkg_gauss]]
 arch = "aarch64"
-git-tree-sha1 = "709c3adca37b5bc13dfa6c6b397b6de59689fffc"
+git-tree-sha1 = "5fdfc18ae3d63ce63bfdf009bff6ea0f1da40913"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_gauss.download]]
-    sha256 = "acaf6375b4516c222396d2e9211ee290126cd95775e78b767ba690b84e9fb007"
-    url = "https://github.com/lgoettgens/GAP_pkg_gauss_jll.jl/releases/download/GAP_pkg_gauss-v202500.120100.0+0/GAP_pkg_gauss.v202500.120100.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "bdb760bc44493a02eb224576fd4d5fb63702b31ea1067c05151ad0d295270030"
+    url = "https://github.com/lgoettgens/GAP_pkg_gauss_jll.jl/releases/download/GAP_pkg_gauss-v202600.70100.0+0/GAP_pkg_gauss.v202600.70100.0.aarch64-linux-gnu.tar.gz"
 [[GAP_pkg_gauss]]
 arch = "aarch64"
-git-tree-sha1 = "cd7cf6409103d9f1365306203c340d5ee3c4b89b"
+git-tree-sha1 = "5e6ca4931969570ca3b6589969cd634add1b872e"
 libc = "musl"
 os = "linux"
 
     [[GAP_pkg_gauss.download]]
-    sha256 = "38c3960e6b7b5fd39707401746fd2028a799ad1b8ce3134f1fb3a9a24b1244d8"
-    url = "https://github.com/lgoettgens/GAP_pkg_gauss_jll.jl/releases/download/GAP_pkg_gauss-v202500.120100.0+0/GAP_pkg_gauss.v202500.120100.0.aarch64-linux-musl.tar.gz"
+    sha256 = "6b05a418d75e9dcdf799dc924085bfba59646db233cd4b980453107c58ae8825"
+    url = "https://github.com/lgoettgens/GAP_pkg_gauss_jll.jl/releases/download/GAP_pkg_gauss-v202600.70100.0+0/GAP_pkg_gauss.v202600.70100.0.aarch64-linux-musl.tar.gz"
 [[GAP_pkg_gauss]]
 arch = "aarch64"
-git-tree-sha1 = "1c518e67f020575830d972e01cc9a29c5d877408"
+git-tree-sha1 = "dc206cec52dd76aac1a4b649d05ee01d023152f8"
 os = "freebsd"
 
     [[GAP_pkg_gauss.download]]
-    sha256 = "820b82dbcda066881fd07d357db2a32323115d464bf3d0a763da0298e9546d03"
-    url = "https://github.com/lgoettgens/GAP_pkg_gauss_jll.jl/releases/download/GAP_pkg_gauss-v202500.120100.0+0/GAP_pkg_gauss.v202500.120100.0.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "646d950dda1763fe26433490fbfe98a5ff2126e539e429b0d2c680b1ccb86375"
+    url = "https://github.com/lgoettgens/GAP_pkg_gauss_jll.jl/releases/download/GAP_pkg_gauss-v202600.70100.0+0/GAP_pkg_gauss.v202600.70100.0.aarch64-unknown-freebsd.tar.gz"
 [[GAP_pkg_gauss]]
 arch = "powerpc64le"
-git-tree-sha1 = "4ea5b19e9ea008360cce57c18695f48de30ea12e"
+git-tree-sha1 = "5bf21b63436971994fdcc3989b3e45a123d88bed"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_gauss.download]]
-    sha256 = "51a95422195b2f58cdb42229939ec909aeb3eeed9b16c34a19ad5d976788e21c"
-    url = "https://github.com/lgoettgens/GAP_pkg_gauss_jll.jl/releases/download/GAP_pkg_gauss-v202500.120100.0+0/GAP_pkg_gauss.v202500.120100.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "6e5936e0fa9a14d0d65983081849ff972cf2f8e762457cb27bc11ae70753522d"
+    url = "https://github.com/lgoettgens/GAP_pkg_gauss_jll.jl/releases/download/GAP_pkg_gauss-v202600.70100.0+0/GAP_pkg_gauss.v202600.70100.0.powerpc64le-linux-gnu.tar.gz"
 [[GAP_pkg_gauss]]
 arch = "riscv64"
-git-tree-sha1 = "20ffcfec54caac4a2aa58a478f9bf725e2619328"
+git-tree-sha1 = "a513bc59842e29c87a6515bec930a505718f20b7"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_gauss.download]]
-    sha256 = "97bfa4d2805eb016ab24e148b251b055c37b1c7a338475afc0f5d9b213cbb47d"
-    url = "https://github.com/lgoettgens/GAP_pkg_gauss_jll.jl/releases/download/GAP_pkg_gauss-v202500.120100.0+0/GAP_pkg_gauss.v202500.120100.0.riscv64-linux-gnu.tar.gz"
+    sha256 = "1e1a276b2f31d9a66306716c728bd28c768ad4cfb1a3590f16177f88077f4b6d"
+    url = "https://github.com/lgoettgens/GAP_pkg_gauss_jll.jl/releases/download/GAP_pkg_gauss-v202600.70100.0+0/GAP_pkg_gauss.v202600.70100.0.riscv64-linux-gnu.tar.gz"
 [[GAP_pkg_gauss]]
 arch = "x86_64"
-git-tree-sha1 = "b46eba1ef8727da88eeb90f7cbe3bb14cabfdeb5"
+git-tree-sha1 = "ec315b0684c5e49b31e51090ccd0fa7de3ce2ba3"
 os = "macos"
 
     [[GAP_pkg_gauss.download]]
-    sha256 = "7376fb6b397e60a538930e838e8f156e27dfef77a254f8b00ea43dce9c2cc1fb"
-    url = "https://github.com/lgoettgens/GAP_pkg_gauss_jll.jl/releases/download/GAP_pkg_gauss-v202500.120100.0+0/GAP_pkg_gauss.v202500.120100.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "5b7964c0d32a764c06823bb917d90688523924f99ee598e3e9f4670e44e881ee"
+    url = "https://github.com/lgoettgens/GAP_pkg_gauss_jll.jl/releases/download/GAP_pkg_gauss-v202600.70100.0+0/GAP_pkg_gauss.v202600.70100.0.x86_64-apple-darwin.tar.gz"
 [[GAP_pkg_gauss]]
 arch = "x86_64"
-git-tree-sha1 = "c44652f8f0e55e3ce49382caf734b2ff37e97c46"
+git-tree-sha1 = "1e06f609b00baf57a2be4ae79b9cbab0c87ad5f1"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_gauss.download]]
-    sha256 = "cfc768fb8bffd6928814bac744b086625914c89e423e7faaf1ecb2cf77cea3f4"
-    url = "https://github.com/lgoettgens/GAP_pkg_gauss_jll.jl/releases/download/GAP_pkg_gauss-v202500.120100.0+0/GAP_pkg_gauss.v202500.120100.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "dccb961f31d426f889e38c5cac7d6f2180f70f9c7639b25e7dad1292d398a05c"
+    url = "https://github.com/lgoettgens/GAP_pkg_gauss_jll.jl/releases/download/GAP_pkg_gauss-v202600.70100.0+0/GAP_pkg_gauss.v202600.70100.0.x86_64-linux-gnu.tar.gz"
 [[GAP_pkg_gauss]]
 arch = "x86_64"
-git-tree-sha1 = "4e60011fcb74b357eb5d74e1bcf7730f0cd8ab2d"
+git-tree-sha1 = "fd8468ee12499d04624c9f8ac29b47f5737d7aa8"
 libc = "musl"
 os = "linux"
 
     [[GAP_pkg_gauss.download]]
-    sha256 = "3699132c7ac5e7e9416151a991c4bb676cc6e2273e0c40601668620eeac1ba07"
-    url = "https://github.com/lgoettgens/GAP_pkg_gauss_jll.jl/releases/download/GAP_pkg_gauss-v202500.120100.0+0/GAP_pkg_gauss.v202500.120100.0.x86_64-linux-musl.tar.gz"
+    sha256 = "401b57eab6836c758f1d302336a5344df33fd9e70fbca9195ee5a3995c58f634"
+    url = "https://github.com/lgoettgens/GAP_pkg_gauss_jll.jl/releases/download/GAP_pkg_gauss-v202600.70100.0+0/GAP_pkg_gauss.v202600.70100.0.x86_64-linux-musl.tar.gz"
 [[GAP_pkg_gauss]]
 arch = "x86_64"
-git-tree-sha1 = "97e26ac21a59eadb9c13803708b6fef6372e4d9d"
+git-tree-sha1 = "3164b95e1f837d36bee96d3c96a1872ba600048d"
 os = "freebsd"
 
     [[GAP_pkg_gauss.download]]
-    sha256 = "d028e6315859237713984b7ee560855433c12b0cca8c04d592545187c6df19d8"
-    url = "https://github.com/lgoettgens/GAP_pkg_gauss_jll.jl/releases/download/GAP_pkg_gauss-v202500.120100.0+0/GAP_pkg_gauss.v202500.120100.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "82ce6d5ce197742161b2c0932ce5f9f3b2781df8bce59067adc1457d9d2d21e8"
+    url = "https://github.com/lgoettgens/GAP_pkg_gauss_jll.jl/releases/download/GAP_pkg_gauss-v202600.70100.0+0/GAP_pkg_gauss.v202600.70100.0.x86_64-unknown-freebsd.tar.gz"
